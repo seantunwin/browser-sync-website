@@ -22,7 +22,7 @@ env: "production"
 navigation:
  - page-label: home
    label: "Get Started"
-   url: \#install
+   url: #install
  - page-label: docs
    label: "Documentation"
    url: /docs
